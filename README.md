@@ -74,7 +74,7 @@ Finds repeated shapes using embedding matching.
 
 ## Interface Preview  
 <p align="center">
-  <img src="https://static.filehorse.com/screenshots-mac//photo-and-design/adobe-illustrator-screenshot-04.png" width="900">
+  <img src="https://static.filehorse.com/screenshots-mac//photo-and-design/adobe-illustrator-screenshot-02.png" width="900">
 </p>
 
 
